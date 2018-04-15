@@ -1,0 +1,11 @@
+{
+  "name": "Infinity Belt",
+  "version": "1.0.0",
+  "title": "Infinity Belt",
+  "author": "bloodysnow",
+  "contact": "",
+  "homepage": "",
+  "factorio_version": "0.16",
+  "dependencies": ["base >= 0.15"],
+  "description": "You can use belts infinitely."
+}
